@@ -1,4 +1,4 @@
-ame: cfn-nag
+name: cfn-nag
 
 on:
   push:
